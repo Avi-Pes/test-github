@@ -5,3 +5,4 @@
 4. `git add index.html`
 5. `git commit -m "my description"`
 6. `git log`
+7. `git config user.name or user.email`
